@@ -1,3 +1,2 @@
 # Py_test
-测试
-蛇皮
+python入门
