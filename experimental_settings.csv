@@ -1,0 +1,9 @@
+LR,0.1
+batch_size,1000
+embedding_dimension,10
+epochs,5
+milestones,[]
+momentum,0.9
+outdir_path,.
+pretrained_model_path,None
+weight_decay,0
